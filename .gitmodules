@@ -65,7 +65,7 @@
 	url = https://github.com/PoomSmart/YouGroupSettings
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
-	url = https://github.com/PoomSmart/YouSpeed
+	url = https://github.com/RBrNx/YouSpeed
 [submodule "Tweaks/PSHeader"]
 	path = Tweaks/PSHeader
 	url = https://github.com/PoomSmart/PSHeader.git
